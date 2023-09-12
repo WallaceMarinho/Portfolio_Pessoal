@@ -14,11 +14,6 @@ Me chamo Wallace Marinho, estudante do curso de Analise e Desenvolvimento de Sis
 </p>
 
 
-<p align='center'>
-<a href='<p align='center'/>
-<a href='https://www.linkedin.com/in/wallace-marinho/'>LinkedIn</a>
-</p>
-
 
 # Meus Projetos
 ### FATEC Projects
