@@ -13,6 +13,13 @@ Repositório dedicado a agrupar projetos desenvolvidos ao longo de cada semestre
 Me chamo Wallace Marinho, estudante do curso de Analise e Desenvolvimento de Sistemas, pela instituição Fatec São José dos Campos, estando atualmente no 5ºsemestre. Ao longo do curso, me identifiquei com o papel de PO (Product Owner) na minha equipe de projetos, me responsabilizando pela comunicação entre a minha equipe de projetos e pelo cliente externo, esclarecendo dúvidas sobre o projeto e desenvolvimento e gerenciamento do documento Backlog, definindo quando e como o projeto seria entregue ao cliente. Além do papel de PO, contribuo na minha equipe com a área do Front-end, tendo familiaridade com HTML, CSS e React, com interesse em ter minha primeira oportunidade de ingressar nesta área no mercado da tecnologia.
 </p>
 
+
+<p align='center'>
+<a href='<p align='center'/>
+<a href='www.linkedin.com/in/wallace-marinho/'>LinkedIn</a>
+</p>
+
+
 # Meus Projetos
 ### FATEC Projects
 #### 1° Semestre - 2/2021
