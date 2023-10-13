@@ -1,4 +1,4 @@
-# Portifolio de Projetos - Wallace Marinho
+# Portfólio de Projetos - Wallace Marinho
 
 <p align='justify'>
 Repositório dedicado a agrupar projetos desenvolvidos ao longo de cada semestre do curso Analise e Desenvolvimento de Sistemas, disponibilizado pela instituição Fatec São José dos Campos, afim de enfatizar hard e soft skills, e conhecimento sobre tecnologias adquiridas ao longo do curso. Cada semestre possuiu um cliente externo apresentando um problema para a turma de ADS, sendo a mesma devendo solucionar o problema com o auxílio da metodologia Scrum, entregando a solução em pequenas 4 entregas.Este repositório também representa o requisito avaliativo para a disciplina de Trabalho de Graduação 1, sob a orientação do professor Fernando Masanori. 
@@ -10,7 +10,21 @@ Repositório dedicado a agrupar projetos desenvolvidos ao longo de cada semestre
 </p>
 
 <p align='justify'>
-Me chamo Wallace Marinho, estudante do curso de Analise e Desenvolvimento de Sistemas, pela instituição Fatec São José dos Campos, estando atualmente no 5ºsemestre. Ao longo do curso, me identifiquei com o papel de PO (Product Owner) na minha equipe de projetos, me responsabilizando pela comunicação entre a minha equipe de projetos e pelo cliente externo, esclarecendo dúvidas sobre o projeto e desenvolvimento e gerenciamento do documento Backlog, definindo quando e como o projeto seria entregue ao cliente. Além do papel de PO, contribuo na minha equipe com a área do Front-end, tendo familiaridade com HTML, CSS e React, com interesse em ter minha primeira oportunidade de ingressar nesta área no mercado da tecnologia.
+Me chamo Wallace Marinho, estudante do curso de Analise e Desenvolvimento de Sistemas, pela instituição Fatec São José dos Campos, estando atualmente no 5ºsemestre. Possuo formação
+no curso de Sistemas para Internet (agosto de 2018 à agosto de 2021) pela instituição Etep, localizada no centro da cidade de São José, sendo o mesmo o meu primeiro contato com o 
+mundo da tecnologia e programação, decidindo ingressar na instituição Fatec em agosto de 2022 para uma segunda formação e maior aprofundamento no ramo da tecnologia. 
+  
+  Ao longo do curso, me identifiquei com o papel de PO (Product Owner) na minha equipe de projetos, me responsabilizando pela comunicação entre a minha equipe de projetos e pelo cliente externo, esclarecendo dúvidas sobre o projeto e desenvolvimento e gerenciamento do documento Backlog, definindo quando e como o projeto seria entregue ao cliente. Além do papel de PO, contribuo na minha equipe com a área do Front-end, tendo familiaridade com HTML, CSS e React.
+
+  Tenho experiência profissional como  jovem aprendiz pela empresa Vale Sul Shopping (fevereiro de 2019 á fevereiro de 2021), exercendo funções administrativas no setor responsável
+  pela manutenção do shopping, como emissão e baixa em ordens de serviço para a equipe da manutenção, impressão de documentos, e apoio a equipe em tarefas cotidianas, como rotas preventivas de identificação de erros e anomalias ao redor do edifício. Atualmente, exerço a função de atendente pela rede de Fast Food Mc Donald's, também localizada no shopping Vale Sul, vivenciando por mais de 1 ano uma rotina de multifunções e cheia de aprendizagem e ensinamentos no interior da loja, trabalhando muitas habilidades como a proatividade e agilidade
+  na execução de tarefas e entrega de resultados.
+
+  Sigo com o grande objetivo de receber minha primeira oportunidade no ramo da tecnologia, me qualificando dia após dia pela instituição atual.
+  
+
+
+
 </p>
 
 
