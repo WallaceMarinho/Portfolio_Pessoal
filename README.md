@@ -170,9 +170,48 @@ Junto com algumas tecnologias já utilizadas para o desenvolvimento da aplicaç�
 * Envio de dúvidas e feedback sobre o projeto
 
 
+## IONIC Deploy Manager
+#### 4° Semestre - 1/2023
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/ionichealth/'>IONIC Health</a>
+![ionic deploy manager](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/9ccc9e9b-6fb3-4efc-a1e9-d53a0d966c71)
+
+<p align='justify'>
+O <a href='https://github.com/meta-build/Projeto-IONIC-Health'>IONIC Deploy Manager</a> é uma aplicação web para o gerenciamento e otimização de chamados feitos pelos clientes da empresa parceira. Com algumas similaridades com o sistema desktop Pro4system, a IONIC Deploy Manager também contem um sistema CRUD para usuários e grupos de usuários, sendo que usuários do tipo administrador podem alterar permissões de um usuário no sistema, fazendo com que a interface obtenha adaptações de acordo com as permissões atribuídas. Chamados podem ser alocados a um ou mais usuários, e um ou mais usuários podem ser alocados a um ou mais grupos, de tal forma com que ofereça um ambiente de desenvolvimento organizado, prático e intuitivo. Neste projeto, o framework React foi utilizado em quase 100% no frontend para a construção das telas intuitivas e funcionalidades importantes para o sistema.
+</p>
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
+
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+ Neste projeto, assume o papel de PO (Product Owner), me responsabilizando pela comunicação entre a equipe e a empresa parceira. Também auxiliei no desenvolvimento do frontend, como 
+  a criação de componentes e Popups, e a criação dos diagramas de banco de dados. 
+</p>
+
+<h3> Hard skills </h3>
+
+* Criação de componentes/Popups (React)
+* Gerenciamento do documento Backlog (Excel)
+* Auxilio na criação de diagramas de banco de dados (BR Modelo)
 
 
-  
+<h3> Soft skills </h3>
 
-
+* Planejamento de atividades do projeto 
+* Comunicação com equipe sobre o andamento do projeto
+* Envio de dúvidas e feedback sobre o projeto
 
