@@ -59,63 +59,73 @@ Parceiro acadêmico: <a href='https://www.linkedin.com/school/fatecjessenvidal/'
 
 ### Contribuições Pessoais
 <p align='justify'>
-Auxílio no devenvolvimento da interface da aplicação utilizando HTML/CSS, também ajudando a definir todo design e estrutura da aplicação web.
+Auxílio na definição do design e desenvolvimento de wireframes da aplicação web através da ferramenta "Canvas", e auxílio no desenvolvimento das páginas Home, e páginas contendo
+os links para os Githubs de cada grupo, dividios por turma, semestre e ano.
 </p>
 
 
-<details>
-  <summary><h3>Hard Skills</h3></summary>
-  <br>
-  <table align='center'>
-    <tr>
-      <th width='300px'>Tecnologia/Metodologia</th>
-      <th width='300px'>Domínio</th>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>HTML/CSS</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Metodologia SCRUM</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>UX/UI</td>
-      <td>★★☆☆☆</td>
-    </tr>
-  </table>
-</details>
 
-<details>
-  <summary><h3>Soft Skills</h3></summary>
-  <br>
-  <table align='center'>
-    <tr>
-      <th width='300px'>Habilidade</th>
-      <th width='300px'>Domínio</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Trabalho em equipe</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Organização/Planejamento</td>
-      <td>★★☆☆☆</td>
-    </tr>
-  </table>
-</details>
+ <h3> Hard skills </h3>
+
+* Desenvolvimento WEB (HTML/CSS) 
+* Clonagem de repositórios automatizada (Python)
+
+
+<h3> Soft skills </h3>
+
+* Planejamento de atividades do projeto
+* Comunicação com o cliente para recebimento de feedbacks
+
+## Pro4System
+#### 2° Semestre - 1/2022
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a>
+![pro4system](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/86dc0865-9262-41b0-b5e3-df9ed8999561)
+
+<p align='justify'>
+<a href='https://github.com/meta-build/Pro4System/'>Pro4System</a> é um sistema desktop com o objetivo de melhorar a comunicação entre a empresa parceira e seus clientes. Este sistema possibilita com que a empresa parceira realize o cadastro de clientes e funcionários, e os aloque a um projeto em andamento já cadastrado no sistema, assim promovendo uma melhor comunicação com a variedade e quantidade de projetos em que a empresa parceira lida no dia a dia. O sistema também possibilita com que os usuários se comuniquem entre sí através de um meio similiar a plataformas de email, e também através de um chat com mensagens em tempo real, facilitando o envio de feedbacks a respeito de projetos em desenvolvimento e concluídos.
+</p>
+<p align='justify'>
+O desenvolvimento das interfaces do sistema e CRUD de usuários, funcionários e projetos contou com a linguagem de programação Java, aplicando os conceitos de POO (Programação Orientada a Objetos) adquiridos em sala de aula. Para o desenvolvimento do chat para mensagens em tempo real, foi utilizado um  servidor em NodeJs, junto com a biblioteca SocketIO, e MySQL para o armazenamento e gerenciamento de dados.
+</p>
+
+
+### Tecnologias utilizadas
+- Interface e armazenamento de dados <br />
+<p>
+<img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)' />
+</p>
+
+- Servidor online para sistema de chat <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+  Neste projeto, exerci o papel de Scrum Master, gerenciando toda a equipe com a divisão e entrega de tarefas no prazo previsto, e acompanhamento no ritmo de desenvolvimento destas mesmas tarefas, auxiliando os integrantes nas dificuldades encontradas. Também participei na criação das wireframes para definir todo o design do sistema de acordo com as exigências e preferências do cliente, e no desenvolvimento do banco de dados.
+</p>
+
+ <h3> Hard skills </h3>
+
+* Desenvolvimento do banco de dados (MySQL)
+* Criação das Wireframes (Canvas)
+* Gerenciamento na execução de tarefas (Excel)
+
+
+<h3> Soft skills </h3>
+
+* Planejamento de atividades do projeto
+* Divisão de tarefas entre os integrantes
+* Comunicação com equipe sobre o andamento do projeto
+
+
+
+
+
+
+  
 
 
 
