@@ -1,7 +1,7 @@
 # Portfólio de Projetos - Wallace Marinho
 
 <p align='justify'>
-Repositório dedicado a agrupar projetos desenvolvidos ao longo de cada semestre do curso Analise e Desenvolvimento de Sistemas, disponibilizado pela instituição Fatec São José dos Campos, afim de enfatizar hard e soft skills, e conhecimento sobre tecnologias adquiridas ao longo do curso. Cada semestre possuiu um cliente externo apresentando um problema para a turma de ADS, sendo a mesma devendo solucionar o problema com o auxílio da metodologia Scrum, entregando a solução em pequenas 4 entregas.Este repositório também representa o requisito avaliativo para a disciplina de Trabalho de Graduação 1, sob a orientação do professor Fernando Masanori. 
+Repositório dedicado a agrupar projetos desenvolvidos ao longo de cada semestre do curso Análise e Desenvolvimento de Sistemas, disponibilizado pela instituição Fatec São José dos Campos, afim de enfatizar hard e soft skills, e conhecimento sobre tecnologias adquiridas ao longo do curso. Cada semestre possuiu um cliente externo apresentando um problema para a turma de ADS, sendo a mesma devendo solucionar o problema com o auxílio da metodologia Scrum, entregando a solução em pequenas 4 entregas.Este repositório também representa o requisito avaliativo para a disciplina de Trabalho de Graduação 1, sob a orientação do professor Fernando Masanori. 
 </p>
 
 # Sobre mim
@@ -10,7 +10,7 @@ Repositório dedicado a agrupar projetos desenvolvidos ao longo de cada semestre
 </p>
 
 <p align='justify'>
-Me chamo Wallace Marinho, estudante do curso de Analise e Desenvolvimento de Sistemas, pela instituição Fatec São José dos Campos, estando atualmente no 5ºsemestre. Possuo formação
+Me chamo Wallace Marinho, estudante do curso de Análise e Desenvolvimento de Sistemas, pela instituição Fatec São José dos Campos, estando atualmente no 5ºsemestre. Possuo formação
 no curso de Sistemas para Internet (agosto de 2018 à agosto de 2021) pela instituição Etep, localizada no centro da cidade de São José, sendo o mesmo o meu primeiro contato com o 
 mundo da tecnologia e programação, decidindo ingressar na instituição Fatec em agosto de 2022 para uma segunda formação e maior aprofundamento no ramo da tecnologia. 
   
