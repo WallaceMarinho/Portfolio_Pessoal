@@ -120,7 +120,54 @@ O desenvolvimento das interfaces do sistema e CRUD de usuários, funcionários e
 * Divisão de tarefas entre os integrantes
 * Comunicação com equipe sobre o andamento do projeto
 
+  ## Embraer - Operational Landing Distance
+#### 3° Semestre - 2/2022
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/embraer/'>Embraer</a>
+![embraer](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/eea3fa51-6531-4aa2-a4d7-c1ef6924f131)
 
+<p align='justify'>
+Dada a dificuldade de pilotos na aterrisagem de aeronaves apresentadas pela empresa parceira, a <a href='https://github.com/meta-build/Projeto-Embraer'>Embraer Operational Landing Distance</a> é uma aplicação web que permite com que pilotos de aeronaves realizem um cálculo de distância entre a aeronave e a pista de pouso, para que os mesmos efetuem a aterrissagem da aeronave de forma segura. O cálculo é efetuado através da inserção de dados em uma interface simples e intuítiva, sendo que esses mesmos dados podem ser referentes a condições climáticas, condições da pista de pouso, fatores da aeronave como tipo de motor, modelo, peso, e entre outros tipos de dados. Cada dado possuí um valor específico que influencia diretamente nas operações matemáticas e resultado final do cálculo, sendo que o mesmo é entregue ao piloto de forma clara e o mais rápido possível. Junto a isso, o sistema também contem um sistema de cadastro de usuários e cadastro de modelos de aeronaves, permitindo com que o usuário faça a edição dos dados necessários para obter o resultado exato no cálculo da distância de pouso.
+  
+Junto com algumas tecnologias já utilizadas para o desenvolvimento da aplicação, como o MySQL para o armazenamento de dados, também contamos com o framework "React", tendo o primeiro contato com o conceito SPA (Single Page Application), promovendo a agilidade na navegação do sistema.
+</p>
+
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
+<img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+  Neste projeto, desenvolvi o papel de PO (Product Owner) da equipe, me responsabilizando por ser um meio de comunicação entre a equipe e o cliente. Alguns conceitos
+  como o planejamento/gerenciamento de tarefas, e comunicação com a equipe e o cliente foram bem amadurecidas, devido a este projeto apresentar um grau maior de complexidade, assim
+  obrigando a equipe realizar muitas reuniões internas para compreender o problema proposto e como executar sua solução de acordo com as exigências do cliente. Também contribui com
+  alguns fatores no frontend do projeto com a utilização do framework React, como a criação dos componentes utilizados na criação das páginas web.
+</p>
+
+<h3> Hard skills </h3>
+
+* Criação de componentes (React)
+* Criação das Wireframes (Canvas)
+* Gerenciamento do documento Backlog (Excel)
+
+
+<h3> Soft skills </h3>
+
+* Planejamento de atividades do projeto 
+* Comunicação com equipe sobre o andamento do projeto
+* Envio de dúvidas e feedback sobre o projeto
 
 
 
