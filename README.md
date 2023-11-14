@@ -65,8 +65,9 @@ os links para os Githubs de cada grupo, dividios por turma, semestre e ano.
 
 
 
- <h3> Hard skills </h3>
+<h3> Hard skills </h3>
 
+#### Nível Básico em:
 * Desenvolvimento WEB (HTML/CSS) 
 * Clonagem de repositórios automatizada (Python)
 
@@ -109,7 +110,9 @@ O desenvolvimento das interfaces do sistema e CRUD de usuários, funcionários e
 
  <h3> Hard skills </h3>
 
-* Desenvolvimento do banco de dados (MySQL)
+#### Nível Básico em:
+* Desenvolvimento e estruturação do banco de dados (MySQL)
+* Aplicação do conceito de Programação Orientada a Objetos no desenvolvimento do backend 
 * Criação das Wireframes (Canvas)
 * Gerenciamento na execução de tarefas (Excel)
 
@@ -158,16 +161,17 @@ Junto com algumas tecnologias já utilizadas para o desenvolvimento da aplicaç�
 
 <h3> Hard skills </h3>
 
-* Criação de componentes (React)
+#### Nível Básico em:
+* Criação de componentes e páginas web (React/Typescript)
 * Criação das Wireframes (Canvas)
 * Gerenciamento do documento Backlog (Excel)
 
 
 <h3> Soft skills </h3>
 
-* Planejamento de atividades do projeto 
-* Comunicação com equipe sobre o andamento do projeto
-* Envio de dúvidas e feedback sobre o projeto
+* Comunicação com a equipe para formular uma melhor solução para o problema do cliente
+* Planejamento de atividades a serem entregues para o cliente
+* Comunicação com o cliente para uma melhor compreensão do problema proposto
 
 
 ## IONIC Deploy Manager
@@ -204,16 +208,17 @@ O <a href='https://github.com/meta-build/Projeto-IONIC-Health'>IONIC Deploy Mana
 
 <h3> Hard skills </h3>
 
+#### Nível Básico em:
+
 * Criação de componentes/Popups (React)
-* Gerenciamento do documento Backlog (Excel)
 * Auxilio na criação de diagramas de banco de dados (BR Modelo)
+* Criação de páginas web (React/Typéscript)
 
 
 <h3> Soft skills </h3>
 
-* Planejamento de atividades do projeto 
-* Comunicação com equipe sobre o andamento do projeto
-* Envio de dúvidas e feedback sobre o projeto
+* Planejamento de atividades a serem entregues através do documento Backlog (excel)
+* Comunicação com cliente e equipe
 
 
 ## FCManager
