@@ -215,3 +215,60 @@ O <a href='https://github.com/meta-build/Projeto-IONIC-Health'>IONIC Deploy Mana
 * Comunicação com equipe sobre o andamento do projeto
 * Envio de dúvidas e feedback sobre o projeto
 
+
+## FCManager
+#### 5° Semestre - 2/2023
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/imagem-geo'>Imagem Geosistemas</a>
+![fcmanager](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/b1f031ba-a0fe-4a86-8c9a-6f2fa45e5361)
+
+<p align='justify'>
+O <a href=''>FCManager</a>  é um aplicativo revolucionário para dispositivos móveis, destinado a simplificar a administração de equipamentos em atividades de campo, como reparos em postes elétricos. Ele apresenta uma estrutura de permissões de usuário para garantir um acesso controlado. Além de gerenciar equipamentos, o FCManager inclui funcionalidades para supervisionar manobras e atividades em campo, integrando um sistema de localização para o rastreamento dinâmico de equipamentos em uso. No FCManager, os usuários podem facilmente listar, criar e modificar detalhes de equipamentos, incluindo tipo, número de série, localização precisa e status. Filtros intuitivos simplificam buscas específicas, enquanto a função de mapeamento integrado possibilita a localização visual no mapa do aplicativo. O sistema de gestão de manobras cataloga informações essenciais, como título, descrição, responsável, data/hora de início e conclusão, além de listar os equipamentos utilizados. Os usuários têm a capacidade de registrar até 10 manobras simultâneas, com atualizações em tempo real do status dos equipamentos e conclusão restrita ao criador. A respeito da parte de usuários, o aplicativo oferece uma gestão versátil e segura, distinguindo entre perfis comuns e administrativos. Administradores têm controle exclusivo sobre a criação e edição de contas, enquanto os usuários podem gerenciar suas informações pessoais e modificar senhas. A autenticação reforça a segurança, solicitando senha ao retomar o aplicativo, com flexibilidade para alternar entre contas conforme necessário.
+</p>
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
+
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+Novamente assumi o papel de Product Owner da equipe, contribuindo com o desenvolvimento e gerenciamento do documento Backlog para a listagem de funcionalidades a serem entregas
+no decorrer das sprints, além de manter a comunicação com o cliente para o envio das principais dúvidas do grupo a respeito do projeto, e feedbacks por parte do cliente. Também 
+contribui no desenvolvimento do aplicativo na parte do Frontend, construindo as páginas do aplicativo e componentes a serem utilizados nas mesmas. 
+</p>
+
+<h3> Hard skills </h3>
+
+#### Nível Básico em:
+
+* Criação de componentes/Popups (React-Native)
+* Criação de páginas de aplicativos para dispositivos android (React-Native)
+* Utilização de mapas no aplicativo (React-Native-Maps)
+* Utilização de banco de dados não relacional (MongoDB)
+
+<h3> Soft skills </h3>
+
+* Comunicação com o cliente utilizando a ferramenta Slack
+* Gerenciamento do documento backlog utilizando o Excel
+* Planejamento e gerenciamento de tarefas com a ferramenta Trello
+* Pesquisas sobre novas tecnologias a serem implementadas no projeto, como a utilização de mapas com React-Native-Maps
+
+
+
+
+
+
+
+
