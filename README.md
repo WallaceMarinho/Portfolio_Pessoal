@@ -310,8 +310,12 @@ Para mais detalhes, acesse o repositório: <a href='https://github.com/peonia-ap
 <img src='https://img.shields.io/badge/TersorFlow-FF7A00?style=for-the-badge&logo=tersorflow&labelColor=white' />
 <img src='https://img.shields.io/badge/Yolo-0038FF?style=for-the-badge&logo=Yolo' />
 <img src='https://img.shields.io/badge/Roboflow-8000FF?style=for-the-badge&logo=roboflow' />
-<img src='https://img.shields.io/badge/Kaggle-00D1FF?style=for-the-badge&logo=kaggle&labelColor=white' />
-  
+<img src='https://img.shields.io/badge/Kaggle-00D1FF?style=for-the-badge&logo=kaggle&labelColor=white' /> 
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+Neste projeto, assumi o papel de desenvolver o front-end, focando na criação de interfaces de interação para o usuário. Desenvolvi interfaces cruciais como a de login e as de cadastro e listagem de usuários, Red Zones e áreas. Utilizando conceitos modernos de Single-Page Application (SPA), garanti que a navegação fosse fluida e a experiência do usuário, otimizada. As interfaces foram projetadas para serem intuitivas e responsivas, facilitando o uso e a gestão do sistema, e assegurando um desempenho eficiente e uma interação mais dinâmica com o usuário.
 </p>
 
 
