@@ -270,6 +270,26 @@ contribui no desenvolvimento do aplicativo na parte do Frontend, construindo as 
 * Planejamento e gerenciamento de tarefas com a ferramenta Trello
 * Pesquisas sobre novas tecnologias a serem implementadas no projeto, como a utilização de mapas com React-Native-Maps
 
+## Altave System
+#### 6° Semestre - 1/2024
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/flyaltave/'>Altave</a>
+<p align='center'>
+<img src='https://imgs.search.brave.com/uI7bg4Zgxei3CQUzCiMpl878w11HMfnCobkfYUYtTT4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9waXRz/amMub3JnLmJyL3dw/ZmlsZXMvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMTIvbG9n/by1hbHRhdmUucG5n'> 
+</p>
+
+<p align='justify'>
+Na indústria petrolífera e em embarcações de exploração de petróleo, existem áreas de acesso restrito conhecidas como Red Zones. Por questões de segurança, é essencial monitorar o número de acessos a essas Red Zones. Atualmente, esse monitoramento é realizado por meio de câmeras instaladas nos locais, com as imagens sendo observadas por guardas, e todos os registros de entrada e saída são lançados manualmente em planilhas.
+
+Esse método manual é suscetível a erros humanos, além de tornar a geração de relatórios uma tarefa trabalhosa. Para solucionar esses problemas, a Altave Intelligent Monitoring, nossa empresa parceira, propôs o desenvolvimento de um sistema automatizado para contabilizar o número de pessoas que entram e saem de cada Red Zone. É importante destacar que as câmeras utilizadas cobrem todos os pontos de entrada e saída, mas podem não alcançar toda a área da Red Zone.
+
+Diante desse cenário, a equipe <a href='https://github.com/peonia-api'> Peônia </a> desenvolveu um sistema que fornece uma interface junto com uma inteligência artificial também desenvolvida pela equipe, que permite aos usuários visualizarem em tempo real a quantidade de pessoas no local, além de consultar a movimentação em um determinado período selecionado. O sistema é capaz de monitorar diversas Red Zones em cada departamento, exigindo que o acesso seja restrito aos guardas de cada departamento, enquanto apenas o gerente de segurança terá acesso aos dados de todas as áreas. Desenvolvida com os frameworks Vue e Spring boot, e utilizando conceitos de machine learning para o desenvolvimento e treinamento da inteligência artificial, o sistema conta com diversas telas cadastro e listagem de usuários, redzones e áreas, com os registros de entrada e saída das redzones sendo exibidos através de uma tabela com a data, horário e redzone, junto a um gráfico de linha para facilitar a visualização dos usuários a respeito dos registros.
+
+Para mais detalhes, acesse o repositório: <a href='https://github.com/peonia-api/API_6_Semestre/tree/main'> peonia-api/API_6_Semestre </a>
+</p>
+
+
+
+
 
 
 
