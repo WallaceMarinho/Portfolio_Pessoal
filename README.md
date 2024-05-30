@@ -287,6 +287,32 @@ Diante desse cenário, a equipe <a href='https://github.com/peonia-api'> Peônia
 Para mais detalhes, acesse o repositório: <a href='https://github.com/peonia-api/API_6_Semestre/tree/main'> peonia-api/API_6_Semestre </a>
 </p>
 
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+<img src='https://img.shields.io/badge/Vue.js-6DA55F?style=for-the-badge&logo=Vue.js&logoColor=white'/>
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+<img src='https://img.shields.io/badge/Java-FF8A00?style=for-the-badge&logo=openjdk&logoColor=white' />
+<img src='https://img.shields.io/badge/Spring_Boot-3F8912?style=for-the-badge&logo=Spring%20Boot&logoColor=white' />
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' />
+<img src='https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=green' />
+<img src='https://img.shields.io/badge/PostgreSQL-416BFF?style=for-the-badge&logo=postgresql&logoColor=green' /> 
+</p>
+
+- Desenvolvimento/Treinamento da Inteligência Artificial <br />
+<p>
+<img src='https://img.shields.io/badge/Python-DAE2FF?style=for-the-badge&logo=python'/>
+<img src='https://img.shields.io/badge/Pexels-49ABA5?style=for-the-badge&logo=pexels&labelColor=white' />
+<img src='https://img.shields.io/badge/TersorFlow-FF7A00?style=for-the-badge&logo=tersorflow&labelColor=white' />
+<img src='https://img.shields.io/badge/Yolo-0038FF?style=for-the-badge&logo=Yolo' />
+<img src='https://img.shields.io/badge/Roboflow-8000FF?style=for-the-badge&logo=roboflow' />
+<img src='https://img.shields.io/badge/Kaggle-00D1FF?style=for-the-badge&logo=kaggle&labelColor=white' />
+  
+</p>
 
 
 
