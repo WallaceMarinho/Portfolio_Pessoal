@@ -333,7 +333,7 @@ Neste projeto, assumi o papel de desenvolver o front-end, focando na criação d
 * Comunicação interna com a equipe
 * Proatividade
 * Cumprimento de prazos propostos
-* Resolução de problemas e bugs na aplicação
+
 
 
 
