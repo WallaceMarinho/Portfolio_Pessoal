@@ -319,6 +319,23 @@ Neste projeto, assumi o papel de desenvolver o front-end, focando na criação d
 </p>
 
 
+<h3> Hard skills </h3>
+
+#### Nível Intermediário em:
+
+* Criação de componentes (Vue.js)
+* Criação de interfaces responsivas e intuitivas para o usuário
+* UX/UI Design
+
+
+<h3> Soft skills </h3>
+
+* Comunicação interna com a equipe
+* Proatividade
+* Cumprimento de prazos propostos
+* Resolução de problemas e bugs na aplicação
+
+
 
 
 
