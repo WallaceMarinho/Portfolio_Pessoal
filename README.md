@@ -315,7 +315,13 @@ Para mais detalhes, acesse o repositório: <a href='https://github.com/peonia-ap
 
 ### Contribuições Pessoais
 <p align='justify'>
-Neste projeto, assumi o papel de desenvolver o front-end, focando na criação de interfaces de interação para o usuário. Desenvolvi interfaces cruciais como a de login e as de cadastro e listagem de usuários, Red Zones e áreas. Utilizando conceitos modernos de Single-Page Application (SPA), garanti que a navegação fosse fluida e a experiência do usuário, otimizada. As interfaces foram projetadas para serem intuitivas e responsivas, facilitando o uso e a gestão do sistema, e assegurando um desempenho eficiente e uma interação mais dinâmica com o usuário.
+Neste projeto, assumi a responsabilidade pelo desenvolvimento do front-end, concentrando-me na criação de interfaces de interação para o usuário. Desenvolvi a aparência e algumas funcionalidades de interfaces críticas do sistema, como as telas de login, listagem de redzones, áreas e usuários, bem como suas respectivas telas de cadastro. Também contribuí na construção de componentes essenciais para essas interfaces, incluindo tabelas de listagem de usuários, redzones e áreas cadastradas, formulários de cadastro e um componente reutilizável para simulação de um retângulo, onde manipulei suas propriedades de cor para utilizá-lo em várias telas de cadastro e login.
+
+Para garantir boas práticas de desenvolvimento front-end, implementei um filtro de pesquisa nas telas de listagem, facilitando a busca de registros nas tabelas pelo usuário. Nas interfaces de cadastro, apliquei critérios rigorosos de validação, onde o cadastro de redzones, áreas e usuários é permitido apenas quando todos os campos obrigatórios estão preenchidos. Especificamente para o cadastro de usuários, o campo de email deve conter "@" e ".com" para prevenir problemas futuros de login devido a emails inválidos. Se algum critério não for atendido, uma mensagem de erro clara é exibida ao usuário.
+
+Para a construção dos componentes da interface, utilizei o framework <a href='https://primevue.org/'>PrimeVue</a>. O PrimeVue foi escolhido devido à sua extensa biblioteca de componentes prontos, altamente configuráveis e compatíveis com Vue.js, o que acelera o desenvolvimento e garante a consistência do design. Além disso, o PrimeVue oferece suporte a temas e acessibilidade, facilitando a criação de uma interface amigável e responsiva.
+
+Utilizando conceitos modernos de Single-Page Application (SPA), garanti que a navegação fosse fluida e a experiência do usuário, otimizada. As interfaces foram projetadas para serem intuitivas e responsivas, assegurando um desempenho eficiente e uma interação dinâmica com o usuário.
 </p>
 
 
