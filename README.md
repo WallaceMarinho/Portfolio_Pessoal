@@ -325,20 +325,41 @@ Utilizando conceitos modernos de Single-Page Application (SPA), garanti que a na
 </p>
 
 
-<h3> Hard skills </h3>
-
-#### Nível Intermediário em:
-
-* Criação de componentes (Vue.js)
-* Criação de interfaces responsivas e intuitivas para o usuário
-* UX/UI Design
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Vue.js</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Criação de interfaces</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Criação de componentes</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
 
 
 <h3> Soft skills </h3>
 
-* Comunicação interna com a equipe
-* Proatividade
-* Cumprimento de prazos propostos
+* Comunicação interna com a equipe: Utilizei da comunicação para solicitar ajuda em atividades em que apresentei dificuldades, também a utilizando para definição do design da aplicação, definição da estrutura do projeto e relatar problemas e bugs encontrados durante as sprints;
+
+* Proatividade: Ofereci auxílio a outros integrantes da equipe em suas atividades quando tive tempo extra ou na finalização das minhas próprias atividades;
+  
+* Cumprimento de prazos propostos: Utilizei de skils de planejamento na execução de tasks e atividades para conclui-las conforme ou antes os prazos propostos pelo Scrum Master.
 
 
 
