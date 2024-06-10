@@ -65,17 +65,30 @@ os links para os Githubs de cada grupo, dividios por turma, semestre e ano.
 
 
 
-<h3> Hard skills </h3>
-
-#### Nível Básico em:
-* Desenvolvimento WEB (HTML/CSS) 
-* Clonagem de repositórios automatizada (Python)
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Desenvolvimento WEB (HTML/CSS) </td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Clonagem de repositórios automatizada (Python)</td>
+      <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
 
 <h3> Soft skills </h3>
 
-* Planejamento de atividades do projeto
-* Comunicação com o cliente para recebimento de feedbacks
+* Planejamento: Está skills se refere a diversas reuniões feitas entre a equipe para decidir a estrutura/visual do projeto, e a melhor maneira de se executar a clonagem automatizada dos repositórios;
+* Comunicação: Utilizei da comunicação para a validação das entregas propostas pela equipe.
 
 ## Pro4System
 #### 2° Semestre - 1/2022
@@ -108,20 +121,38 @@ O desenvolvimento das interfaces do sistema e CRUD de usuários, funcionários e
   Neste projeto, exerci o papel de Scrum Master, gerenciando toda a equipe com a divisão e entrega de tarefas no prazo previsto, e acompanhamento no ritmo de desenvolvimento destas mesmas tarefas, auxiliando os integrantes nas dificuldades encontradas. Também participei na criação das wireframes para definir todo o design do sistema de acordo com as exigências e preferências do cliente, e no desenvolvimento do banco de dados.
 </p>
 
- <h3> Hard skills </h3>
-
-#### Nível Básico em:
-* Desenvolvimento e estruturação do banco de dados (MySQL)
-* Aplicação do conceito de Programação Orientada a Objetos no desenvolvimento do backend 
-* Criação das Wireframes (Canvas)
-* Gerenciamento na execução de tarefas (Excel)
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Desenvolvimento e estruturação do banco de dados (MySQL)</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Aplicação de conceitos de POO</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Criação das Wireframes (Canvas)</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Gerenciamento na execução de tarefas (Excel)</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 
 
 <h3> Soft skills </h3>
 
-* Planejamento de atividades do projeto
-* Divisão de tarefas entre os integrantes
-* Comunicação com equipe sobre o andamento do projeto
+* Planejamento: Está skills se refere a habilidade de estipular prazos para a entrega de tasks e definição do que seria uma entrega de valor para o cliente em cada sprint;
+* Gerenciamento: Contribui para a divisão de tasks para cada membro da equipe, acompanhando o progresso da equipe e oferecendo ajuda diante a dificuldades encontradas.
 
   ## Embraer - Operational Landing Distance
 #### 3° Semestre - 2/2022
@@ -155,23 +186,34 @@ Junto com algumas tecnologias já utilizadas para o desenvolvimento da aplicaç�
 <p align='justify'>
   Neste projeto, desenvolvi o papel de PO (Product Owner) da equipe, me responsabilizando por ser um meio de comunicação entre a equipe e o cliente. Alguns conceitos
   como o planejamento/gerenciamento de tarefas, e comunicação com a equipe e o cliente foram bem amadurecidas, devido a este projeto apresentar um grau maior de complexidade, assim
-  obrigando a equipe realizar muitas reuniões internas para compreender o problema proposto e como executar sua solução de acordo com as exigências do cliente. Também contribui com
-  alguns fatores no frontend do projeto com a utilização do framework React, como a criação dos componentes utilizados na criação das páginas web.
+  obrigando a equipe realizar muitas reuniões internas para compreender o problema proposto e como executar sua solução de acordo com as exigências do cliente.
 </p>
 
-<h3> Hard skills </h3>
 
-#### Nível Básico em:
-* Criação de componentes e páginas web (React/Typescript)
-* Criação das Wireframes (Canvas)
-* Gerenciamento do documento Backlog (Excel)
-
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Criação das Wireframes (Canvas)</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Gerenciamento do documento Backlog (Excel)</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 
 <h3> Soft skills </h3>
 
-* Comunicação com a equipe para formular uma melhor solução para o problema do cliente
-* Planejamento de atividades a serem entregues para o cliente
-* Comunicação com o cliente para uma melhor compreensão do problema proposto
+* Comunicação: A comunicação foi exercida com a equipe e o cliente para elaborar da melhor maneira uma solução. Nesta API em específica, foi gerada muitas dúvidas da equipe a respeito de como o cálculo de distância de pouso era efetuado por apresentar muitas variáveis que influenciavam diretamente no resultado final, sendo necessário entrar em contato com o cliente por diversas vezes durante o projeto, principalmente nas primeiras entregas; 
+* Organização: Após a definição do Backlog contendo as tasks e entregas de valor, a equipe aplicou a técnica de <a href="https://www.metodoagil.com/planning-poker/">Planning Poker </a> apresentada no semestre com o objetivo de estimar o esforço de cada task, assim contribuindo para separar quais taks levariam mais tempo para serem finalizadas do que outras.
+
 
 
 ## IONIC Deploy Manager
@@ -202,23 +244,32 @@ O <a href='https://github.com/meta-build/Projeto-IONIC-Health'>IONIC Deploy Mana
 
 ### Contribuições Pessoais
 <p align='justify'>
- Neste projeto, assume o papel de PO (Product Owner), me responsabilizando pela comunicação entre a equipe e a empresa parceira. Também auxiliei no desenvolvimento do frontend, como 
-  a criação de componentes e Popups, e a criação dos diagramas de banco de dados. 
+ Neste projeto, assume o papel de PO (Product Owner), me responsabilizando pela comunicação entre a equipe e a empresa parceira, também colaborando na criação dos diagramas de classes em cada sprint para auxiliar no desenvolvimento do banco de dados. 
 </p>
 
-<h3> Hard skills </h3>
-
-#### Nível Básico em:
-
-* Criação de componentes/Popups (React)
-* Auxilio na criação de diagramas de banco de dados (BR Modelo)
-* Criação de páginas web (React/Typéscript)
-
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>criação de diagramas de banco de dados (BR Modelo)</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação com stackeholders</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
 
 <h3> Soft skills </h3>
 
-* Planejamento de atividades a serem entregues através do documento Backlog (excel)
-* Comunicação com cliente e equipe
+* Planejamento: Utilizei do planejamento para gerenciar o documento Backlog e Burndown;
+* Comunicação: Utilizei da comunicação para a validação das entregas com o cliente e esclarecimento de dúvidas.
 
 
 ## FCManager
@@ -227,7 +278,7 @@ Parceiro acadêmico: <a href='https://www.linkedin.com/company/imagem-geo'>Image
 ![fcmanager](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/b1f031ba-a0fe-4a86-8c9a-6f2fa45e5361)
 
 <p align='justify'>
-O <a href=''>FCManager</a>  é um aplicativo revolucionário para dispositivos móveis, destinado a simplificar a administração de equipamentos em atividades de campo, como reparos em postes elétricos. Ele apresenta uma estrutura de permissões de usuário para garantir um acesso controlado. Além de gerenciar equipamentos, o FCManager inclui funcionalidades para supervisionar manobras e atividades em campo, integrando um sistema de localização para o rastreamento dinâmico de equipamentos em uso. No FCManager, os usuários podem facilmente listar, criar e modificar detalhes de equipamentos, incluindo tipo, número de série, localização precisa e status. Filtros intuitivos simplificam buscas específicas, enquanto a função de mapeamento integrado possibilita a localização visual no mapa do aplicativo. O sistema de gestão de manobras cataloga informações essenciais, como título, descrição, responsável, data/hora de início e conclusão, além de listar os equipamentos utilizados. Os usuários têm a capacidade de registrar até 10 manobras simultâneas, com atualizações em tempo real do status dos equipamentos e conclusão restrita ao criador. A respeito da parte de usuários, o aplicativo oferece uma gestão versátil e segura, distinguindo entre perfis comuns e administrativos. Administradores têm controle exclusivo sobre a criação e edição de contas, enquanto os usuários podem gerenciar suas informações pessoais e modificar senhas. A autenticação reforça a segurança, solicitando senha ao retomar o aplicativo, com flexibilidade para alternar entre contas conforme necessário.
+O <a href='https://github.com/meta-build/field-crew-manager'>FCManager</a>  é um aplicativo revolucionário para dispositivos móveis, destinado a simplificar a administração de equipamentos em atividades de campo, como reparos em postes elétricos. Ele apresenta uma estrutura de permissões de usuário para garantir um acesso controlado. Além de gerenciar equipamentos, o FCManager inclui funcionalidades para supervisionar manobras e atividades em campo, integrando um sistema de localização para o rastreamento dinâmico de equipamentos em uso. No FCManager, os usuários podem facilmente listar, criar e modificar detalhes de equipamentos, incluindo tipo, número de série, localização precisa e status. Filtros intuitivos simplificam buscas específicas, enquanto a função de mapeamento integrado possibilita a localização visual no mapa do aplicativo. O sistema de gestão de manobras cataloga informações essenciais, como título, descrição, responsável, data/hora de início e conclusão, além de listar os equipamentos utilizados. Os usuários têm a capacidade de registrar até 10 manobras simultâneas, com atualizações em tempo real do status dos equipamentos e conclusão restrita ao criador. A respeito da parte de usuários, o aplicativo oferece uma gestão versátil e segura, distinguindo entre perfis comuns e administrativos. Administradores têm controle exclusivo sobre a criação e edição de contas, enquanto os usuários podem gerenciar suas informações pessoais e modificar senhas. A autenticação reforça a segurança, solicitando senha ao retomar o aplicativo, com flexibilidade para alternar entre contas conforme necessário.
 </p>
 
 ### Tecnologias utilizadas
@@ -251,24 +302,33 @@ O <a href=''>FCManager</a>  é um aplicativo revolucionário para dispositivos m
 <p align='justify'>
 Novamente assumi o papel de Product Owner da equipe, contribuindo com o desenvolvimento e gerenciamento do documento Backlog para a listagem de funcionalidades a serem entregas
 no decorrer das sprints, além de manter a comunicação com o cliente para o envio das principais dúvidas do grupo a respeito do projeto, e feedbacks por parte do cliente. Também 
-contribui no desenvolvimento do aplicativo na parte do Frontend, construindo as páginas do aplicativo e componentes a serem utilizados nas mesmas. 
+contribui no desenvolvimento do aplicativo na parte do Frontend, projetando e desenvolvendo interfaces de login e botões presentes nas telas de cadastro e início. 
 </p>
 
-<h3> Hard skills </h3>
-
-#### Nível Básico em:
-
-* Criação de componentes/Popups (React-Native)
-* Criação de páginas de aplicativos para dispositivos android (React-Native)
-* Utilização de mapas no aplicativo (React-Native-Maps)
-* Utilização de banco de dados não relacional (MongoDB)
+  <details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Criação de componentes/Popups (React-Native)</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Criação de páginas de aplicativos para dispositivos android (React-Native)</td>
+      <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
 
 <h3> Soft skills </h3>
 
-* Comunicação com o cliente utilizando a ferramenta Slack
-* Gerenciamento do documento backlog utilizando o Excel
-* Planejamento e gerenciamento de tarefas com a ferramenta Trello
-* Pesquisas sobre novas tecnologias a serem implementadas no projeto, como a utilização de mapas com React-Native-Maps
+* Comunicação: Novamente utilizei da comunicação para esclarecimento do projeto e relatar dúvidas, soft skill presente em todos os projetos onde participei como Product Owner;
+
+* Metodologia Autodidata: Esta skill se refere a pesquisas que realizei sobre como implementar e desenvolver mapas com a biblioteca React-Native-Maps.
 
 ## Altave System
 #### 6° Semestre - 1/2024
