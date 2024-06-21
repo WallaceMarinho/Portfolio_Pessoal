@@ -415,11 +415,11 @@ Utilizando conceitos modernos de Single-Page Application (SPA), garanti que a na
 
 <h3> Soft skills </h3>
 
-* Comunicação interna com a equipe: Utilizei da comunicação para solicitar ajuda em atividades em que apresentei dificuldades, também a utilizando para definição do design da aplicação, definição da estrutura do projeto e relatar problemas e bugs encontrados durante as sprints;
+* Comunicação interna com a equipe: Utilizei a comunicação eficaz para sugerir melhorias no design e visual da aplicação, definir a estrutura do projeto e relatar problemas e bugs encontrados durante as sprints. Por exemplo, na terceira sprint, a aplicação parou de renderizar os componentes e interfaces nos navegadores Brave e Google Chrome. Imediatamente identifiquei o problema e relatei à Scrum Master e aos demais membros da equipe. Descobrimos que as configurações de CORS (Cross-Origin Resource Sharing, um mecanismo de segurança que permite que recursos de uma origem sejam acessados por outra) foram apagadas durante o merge de branches no front-end, resultando no bloqueio das requisições entre o front-end e o back-end pelos navegadores. Graças à comunicação rápida e clara, conseguimos resolver o problema prontamente e garantir o funcionamento contínuo da aplicação;
 
-* Proatividade: Ofereci auxílio a outros integrantes da equipe em suas atividades quando tive tempo extra ou na finalização das minhas próprias atividades;
+* Proatividade: Demonstrei proatividade ao auxiliar outros integrantes da equipe em suas atividades quando tinha tempo extra ou após finalizar minhas próprias tarefas. Na terceira sprint, entreguei minhas atividades bem antes do prazo e fui solicitado a realizar melhorias no front-end. Desenvolvi validações nos formulários de cadastro de usuários, redzones e áreas, garantindo que o cadastro só fosse efetuado quando todos os campos estivessem preenchidos corretamente e o campo de email apresentasse "@" e ".com". Isso evitou problemas futuros e melhorou a qualidade dos dados. Na quarta sprint, disponibilizei-me para ajudar outros desenvolvedores a resolver conflitos encontrados após o merge de branches no front-end, garantindo a entrega bem-sucedida do produto ao cliente;
   
-* Cumprimento de prazos propostos: Utilizei de skils de planejamento na execução de tasks e atividades para conclui-las conforme ou antes os prazos propostos pelo Scrum Master.
+* Planejamento: Utilizei habilidades de planejamento para executar tarefas e atividades descritas na plataforma de gerenciamento DevOps, garantindo que fossem concluídas dentro ou antes dos prazos estabelecidos pelo Scrum Master. Priorizava as atividades por nível de complexidade (do mais fácil ao mais difícil) e pela estimativa de tempo necessária para concluí-las. Esse método permitiu uma gestão eficiente do tempo e dos recursos, resultando em entregas consistentes e pontuais.
 
 
 
